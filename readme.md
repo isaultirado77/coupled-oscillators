@@ -5,7 +5,7 @@ Este proyecto simula un sistema de dos osciladores armónicos acoplados, resolvi
 ## Análisis y Resultados
 El notebook de análisis incluye gráficas interactivas y explicaciones detalladas:
 
-[![Ver Análisis en Jupyter](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/isaultirado77/coupled-oscillators/blob/main/coupled_oscillators_analysis.ipynb)
+- `coupled_oscillators_analysis.ipynb` [![Ver Análisis en Jupyter](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/isaultirado77/coupled-oscillators/blob/main/coupled_oscillators_analysis.ipynb)
 
 ## Ejecución de la Simulación
 
